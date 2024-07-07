@@ -33,6 +33,4 @@ let searchValue = 'landscape';
   //use "node main.js > output.txt" to save the output to a file (for easier viewing)
   //in the output.txt file, you will see the first image of "landscape" search results as of date
   console.log(firstImageSource);
-
-  await browser.close();
 })();
